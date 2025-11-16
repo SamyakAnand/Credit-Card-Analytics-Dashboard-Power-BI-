@@ -148,7 +148,7 @@ CALCULATE(
 
 ## 🟦 **Page 1 – Credit Card Transaction Report**
 
-![Transaction Report](CC_Transaction Report.png)
+![Transaction Report](https://github.com/SamyakAnand/Credit-Card-Analytics-Dashboard-Power-BI-/blob/main/CC_Transaction%20Report.png)
 
 ### 🔹 **KPIs**
 
@@ -180,7 +180,7 @@ CALCULATE(
 
 ## 🟪 **Page 2 – Credit Card Customer Report**
 
-![Customer Report](CC_Customer Report.png)
+![Customer Report](https://github.com/SamyakAnand/Credit-Card-Analytics-Dashboard-Power-BI-/blob/main/CC_Customer%20Report.png)
 
 ### 🔹 **KPIs**
 
@@ -312,4 +312,4 @@ It is ideal for:
 * Portfolio
 * Data Analyst Resume
 * BI Engineer Job Applications
-* Business Presentations"# Credit-Card-Analytics-Dashboard-Power-BI-" 
+* Business Presentations
